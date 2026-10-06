@@ -6,5 +6,3 @@ Developed an AI-enabled coordination system for small-scale construction project
 AI/ML Technologies/Tools:
 Python, Pandas, NumPy, Scikit-learn, Random Forest, Streamlit, Joblib, NLP-based text signal extraction.
 
-GitHub/Live Demo:
-To be uploaded/deployed.
