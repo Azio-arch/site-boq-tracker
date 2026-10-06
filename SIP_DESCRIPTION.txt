@@ -1,0 +1,10 @@
+Project Name: AI-Based Small-Scale Construction Coordination System
+
+Brief Description:
+Developed an AI-enabled coordination system for small-scale construction projects where vendors are pre-selected. The system monitors agreed activity timelines, planned vs actual progress and agreed vs actual costs, while using AI/ML to identify delay and progress-gap risks. It also analyses vendor/site updates to extract delays, commitments and cost-impact signals and recommends follow-up actions.
+
+AI/ML Technologies/Tools:
+Python, Pandas, NumPy, Scikit-learn, Random Forest, Streamlit, Joblib, NLP-based text signal extraction.
+
+GitHub/Live Demo:
+To be uploaded/deployed.

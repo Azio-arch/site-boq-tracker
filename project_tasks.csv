@@ -1,0 +1,7 @@
+package,activity,vendor,planned_progress_pct,actual_progress_pct,progress_gap_pct,agreed_cost_inr,actual_cost_inr,status,days_delay
+Civil,Excavation,Vendor A,100,100,0,120000,120000,Completed,0
+Civil,Foundation,Vendor A,100,75,-25,350000,280000,In Progress,2
+Electrical,Conduit,Vendor B,100,55,-45,180000,110000,In Progress,3
+Plumbing,Piping,Vendor C,100,80,-20,150000,105000,In Progress,1
+Finishing,Plastering,Vendor D,100,30,-70,220000,60000,Delayed,6
+Finishing,Flooring,Vendor D,100,0,-100,250000,0,Not Started,8
